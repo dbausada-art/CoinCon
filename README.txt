@@ -25,13 +25,6 @@ pyinstaller==6.16.0
 
 ## Instalación
 
-Clona el repositorio:
-
-```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <CONVMONEDAS>
-```
-
 Instala las dependencias:
 
 ```bash
@@ -73,4 +66,4 @@ Las tasas de cambio son proporcionadas por FXRatesAPI y se actualizan periódica
 
 ## Autor
 
-# Diego Bausada Ostertag
+# Diego Bausada
