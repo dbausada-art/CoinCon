@@ -1,0 +1,5 @@
+# Runtime UI dependency
+customtkinter==5.2.2
+
+# Build dependency (for creating .exe)
+pyinstaller==6.16.0
